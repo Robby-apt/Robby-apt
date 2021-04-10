@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Robin Wafula
 - 👀 I’m interested in frontend development and UI/UX design
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on any fun and challenging web development project
+- 💞️ I’m looking to collaborate on any fun and challenging web development projects
 - 📫 How to reach me email - robin.kw99@gmail.com or robin.kw99@yahoo.com
                      linkedin - https://www.linkedin.com/in/robin-wafula-95a09218a/
 
