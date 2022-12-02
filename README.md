@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Robin Wafula
+- 👋 Hi, I’m Robin Khaoya
 - 👀 I’m interested in frontend development and UI/UX design
 - 🌱 I’m currently learning mongoDB
 - 💞️ I’m looking to collaborate on any fun and challenging web development projects
